@@ -286,7 +286,7 @@
                 const anclaNode = document.createElement('a');
                 anclaNode.className = 'ancla';
                 anclaNode.href = ('#' + elementoNode.getAttribute('id'));
-                anclaNode.innerText = '[Enlace]';
+                anclaNode.innerText = ' #';
                 elementoNode.appendChild(anclaNode);
         }
 </script>
