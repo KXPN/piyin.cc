@@ -128,6 +128,6 @@ $traduccionesPorTexto = [
   => 'I, i, isso é tudo pepe, pepe, pepessoal',
 
   'Si llegaste aquí, te ganaste un beso'
-  => 'Se você chegou aqui, ganhou um bbbbbbeijo',
+  => 'Se você chegou aqui, ganhou um bbbbbbbeijo',
 
 ];
