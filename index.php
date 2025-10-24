@@ -137,7 +137,7 @@ function t($texto) {
         </li>
 </ol>
 <h2 id="Contacta_melo">
-        <?= t('Contacto primario:') ?> Telegram
+        5. <?= t('Contacto primario:') ?> Telegram
 </h2>
 <p><?= t('Es mi plataforma de contacto principal, dado que:') ?></p>
 <ol type="a">
@@ -163,7 +163,7 @@ function t($texto) {
         <span class="telegram">*<?= t('tócame') ?> 😏*</span>
 </p>
 <h2 id="Contactos_con_menor_probabilidad_de_respuesta">
-        <?= t('Contactos secundarios') ?>
+        6. <?= t('Contactos secundarios') ?>
 </h2>
 <p>
         <?= t('Básicamente me puedes encontrar en cualquier otra plataforma que no dependa del celular (si no la tengo me puedes invitar a registrarme, siempre me gusta probar cosas nuevas). La lista incompleta de plataformas en que me puedes contactar de manera privada y que tienen espacio ilimitado gratuito en la nube, en orden de mi preferencia por buenas notificaciones, sería:') ?>
@@ -195,7 +195,7 @@ function t($texto) {
         </ol>
 </p>
 <h2 id="Chau">
-        <?= t('Eso es toto, toto, totodo, amigos!') ?>
+        7. <?= t('Eso es toto, toto, totodo, amigos!') ?>
 </h2>
 <p>b</p>
 <p>b</p>
