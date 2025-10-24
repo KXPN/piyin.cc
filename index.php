@@ -122,7 +122,7 @@ function t($texto) {
                                 <?= t('La palabra dinosaurio, al revés y sin vocales') ?>
                         </li>
                         <li>
-                                <?= t('El código al lado de piyin.cc# en la plataforma donde me encontraste') ?>
+                                <?= t('El nombre de la plataforma donde me encontraste') ?>
                         </li>
                         <li>
                                 <?= t('La cantidad de letras "b" que aparecen en esta página') ?>
@@ -197,7 +197,6 @@ function t($texto) {
 <h2 id="Chau">
         7. <?= t('Eso es toto, toto, totodo, amigos!') ?>
 </h2>
-<p>b</p>
 <p>b</p>
 <p>b</p>
 <p>b</p>

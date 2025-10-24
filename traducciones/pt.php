@@ -67,8 +67,8 @@ $traduccionesPorTexto = [
   'La palabra dinosaurio, al revés y sin vocales'
   => 'A palavra dinossauro, ao contrário e sem vogais',
 
-  'El código al lado de piyin.cc en la plataforma donde me encontraste'
-  => 'O código ao lado de piyin.cc# na plataforma onde você me encontrou',
+  'El nombre de la plataforma donde me encontraste'
+  => 'O nome da plataforma onde você me encontrou',
 
   'La cantidad de letras "b" que aparecen en esta página'
   => 'A quantidade de letras "b" que aparecem nesta página',
