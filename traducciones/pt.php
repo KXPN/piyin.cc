@@ -29,7 +29,7 @@ $traduccionesPorTexto = [
   => 'Sou um babaca de tempo integral, crente em Hakuna Matata: os seus problemas você deve esquecer!',
 
   'Me gustan mucho los computadores: se siente bien tener un amigo bobo pero muy rápido al seguir instrucciones'
-  => 'Gosto muito de computadores: é bom ter um amigo que é bobo, mas bem rápido para seguir instruções',
+  => 'Gosto muito de computadores: é bom ter um amigo que é bobo mas bem rápido para seguir instruções',
 
   'La vida es una secuencia de chistes: no tengo un límite para los mismos y creo que nadie debería tenerlo'
   => 'A vida é uma sequência de piadas: não tenho limite para elas e acho que ninguém deveria tê-lo',
@@ -44,7 +44,7 @@ $traduccionesPorTexto = [
   => 'E faço assim, tó-tó!',
 
   'Siempre respondo, nunca dejo en visto: nunca voy a ver tu mensaje a menos que tenga tiempo para responderlo, ni siquiera lo leeré en la notificación (considero que eso no me sirve para algo). Una vez lo lea, obtendrás respuesta en el tiempo que me demore en responderlo, a menos que muera'
-  => 'Eu sempre respondo, nunca deixo como lido: nunca verei sua mensagem a menos que tenha bom tempo de responder, nem a lerei na notificação (considero que isso não faz bem). Depois que eu ler, você receberá uma resposta no tempo que eu leve para responder, a menos que eu morra',
+  => 'Eu sempre respondo, nunca deixo como lido: nunca verei sua mensagem a menos que tenha tempo de responder, nem a lerei na notificação (considero que isso não faz bem). Depois que eu ler, você receberá uma resposta no tempo que eu leve para responder, a menos que eu morra',
 
   'Intentaré responder con honestidad, aunque es bien sabido que todos los humanos mienten (incluso algunos animales)'
   => 'Tentarei responder honestamente, embora seja bem sabido que todos os humanos mentem (até alguns animais)',
