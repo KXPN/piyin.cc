@@ -85,20 +85,20 @@ $traduccionesPorTexto = [
   'Es mi plataforma de contacto principal, dado que:'
   => 'É minha principal plataforma de contato, dado que:',
 
-  'Tiene espacio ilimitado gratuito en la nube (cómo Discord, Facebook, Instagram, X y demás)'
-  => 'Possui espaço em nuvem ilimitado e gratuito (como Discord, Facebook, Instagram, X e outros)',
+  'Tiene espacio ilimitado gratuito en la nube (cómo Discord, Facebook, Instagram, X)'
+  => 'Possui espaço em nuvem ilimitado e gratuito (como Discord, Facebook, Instagram, X)',
 
-  'No me llena el espacio del celular ni depende del mismo (cómo Signal, WhatsApp, y demás)'
-  => 'Não ocupa espaço no meu celular e nem depende dele (como Signal, WhatsApp, e outros)',
+  'No me llena el espacio del celular ni depende del mismo (cómo Signal, WhatsApp)'
+  => 'Não ocupa espaço no meu celular e nem depende dele (como Signal, WhatsApp)',
 
-  'No me llena un espacio en la nube que luego me van a cobrar (cómo Google Chat, Microsoft Teams, y demás)'
-  => 'Não me cheia um espaço na nuvem pelo qual serei cobrado mais tarde (como Google Chat, Microsoft Teams, e outros).',
+  'No me llena un espacio en la nube que luego me van a cobrar (cómo Google Chat, Microsoft Teams)'
+  => 'Não me cheia um espaço na nuvem pelo qual serei cobrado mais tarde (como Google Chat, Microsoft Teams).',
 
   'Tiene muchos controles de notificación para no ser un adicto, incluyendo una aplicación dedicada para computador con la opción de mantenerse al lado del reloj'
   => 'Tem muitos controles de notificação para não ser viciado, incluindo um aplicativo de desktop dedicado com a opção de ficar ao lado do relógio',
 
-  'Tiene muchas otras herramientas (bots, grupos tematizados, y demás) que uso en el día a día para hacer mi vida más fácil'
-  => 'Tem muitas outras ferramentas (bots, grupos temáticos, e outras) que uso diariamente para facilitar minha vida.',
+  'Tiene muchas otras herramientas (cómo bots, grupos tematizados) que uso en el día a día para hacer mi vida más fácil'
+  => 'Tem muitas outras ferramentas (como bots, grupos temáticos) que uso diariamente para facilitar minha vida.',
 
   'El enlace es'
   => 'O link é',

@@ -85,20 +85,20 @@ $traduccionesPorTexto = [
   'Es mi plataforma de contacto principal, dado que:'
   => 'It\'s my main contact platform, given that:',
 
-  'Tiene espacio ilimitado gratuito en la nube (cómo Discord, Facebook, Instagram, X, y demás)'
-  => 'It has free unlimited cloud storage (like Discord, Facebook, Instagram, X, and so on)',
+  'Tiene espacio ilimitado gratuito en la nube (cómo Discord, Facebook, Instagram, X)'
+  => 'It has free unlimited cloud storage (like Discord, Facebook, Instagram, X)',
 
-  'No me llena el espacio del celular ni depende del mismo (cómo Signal, WhatsApp, y demás)'
-  => 'It doesn\'t fill my cellphone space nor depends on it (like Signal, WhatsApp, and so on)',
+  'No me llena el espacio del celular ni depende del mismo (cómo Signal, WhatsApp)'
+  => 'It doesn\'t fill my cellphone space nor depends on it (like Signal, WhatsApp)',
 
-  'No me llena un espacio en la nube que luego me van a cobrar (cómo Google Chat, Microsoft Teams, y demás)'
-  => 'It doesn\'t fill my cloud spaces to later charge me for it (like Google Chat, Microsoft Teams, and so on)',
+  'No me llena un espacio en la nube que luego me van a cobrar (cómo Google Chat, Microsoft Teams)'
+  => 'It doesn\'t fill my cloud spaces to later charge me for it (like Google Chat, Microsoft Teams)',
 
   'Tiene muchos controles de notificación para no ser un adicto, incluyendo una aplicación dedicada para computador con la opción de mantenerse al lado del reloj'
   => 'It has many notification controles so as not to be an addict, including a standalone desktop application with the option to remain besides the clock',
 
-  'Tiene muchas otras herramientas (bots, grupos tematizados, y demás) que uso en el día a día para hacer mi vida más fácil'
-  => 'It has a lot more tools (bots, topic groups, and so on) which I use on a daily basis to make my life easier',
+  'Tiene muchas otras herramientas (cómo bots, grupos tematizados) que uso en el día a día para hacer mi vida más fácil'
+  => 'It has a lot more tools (like bots, topic groups) which I use on a daily basis to make my life easier',
 
   'El enlace es'
   => 'The link is',

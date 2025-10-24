@@ -142,19 +142,19 @@ function t($texto) {
 <p><?= t('Es mi plataforma de contacto principal, dado que:') ?></p>
 <ol type="a">
         <li>
-                <?= t('Tiene espacio ilimitado gratuito en la nube (cómo Discord, Facebook, Instagram, X, y demás)') ?>
+                <?= t('Tiene espacio ilimitado gratuito en la nube (cómo Discord, Facebook, Instagram, X)') ?>
         </li>
         <li>
-                <?= t('No me llena el espacio del celular ni depende del mismo (cómo Signal, WhatsApp, y demás)') ?>
+                <?= t('No me llena el espacio del celular ni depende del mismo (cómo Signal, WhatsApp)') ?>
         </li>
         <li>
-                <?= t('No me llena un espacio en la nube que luego me van a cobrar (cómo Google Chat, Microsoft Teams, y demás)') ?>
+                <?= t('No me llena un espacio en la nube que luego me van a cobrar (cómo Google Chat, Microsoft Teams)') ?>
         </li>
         <li>
                 <?= t('Tiene muchos controles de notificación para no ser un adicto, incluyendo una aplicación dedicada para computador con la opción de mantenerse al lado del reloj') ?>
         </li>
         <li>
-                <?= t('Tiene muchas otras herramientas (bots, grupos tematizados, y demás) que uso en el día a día para hacer mi vida más fácil') ?>
+                <?= t('Tiene muchas otras herramientas (cómo bots, grupos tematizados) que uso en el día a día para hacer mi vida más fácil') ?>
                  =D
         </li>
 </ol>
