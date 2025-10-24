@@ -62,7 +62,7 @@ $traduccionesPorTexto = [
   => 'Before contacting me',
 
   'Sería un detalle muy elegante si tu primer mensaje incluye:'
-  => 'It would be an elegante touch if your first message includes:',
+  => 'It would be an elegant touch if your first message includes:',
 
   'La palabra dinosaurio, al revés y sin vocales'
   => 'The word dinosaur, backwards and without vowels',
@@ -95,7 +95,7 @@ $traduccionesPorTexto = [
   => 'It doesn\'t fill my cloud spaces to later charge me for it (like Google Chat, Microsoft Teams)',
 
   'Tiene muchos controles de notificación para no ser un adicto, incluyendo una aplicación dedicada para computador con la opción de mantenerse al lado del reloj'
-  => 'It has many notification controles so as not to be an addict, including a standalone desktop application with the option to remain besides the clock',
+  => 'It has many notification controls so as not to be an addict, including a standalone desktop application with the option to remain besides the clock',
 
   'Tiene muchas otras herramientas (cómo bots, grupos tematizados) que uso en el día a día para hacer mi vida más fácil'
   => 'It has a lot more tools (like bots, topic groups) which I use on a daily basis to make my life easier',
